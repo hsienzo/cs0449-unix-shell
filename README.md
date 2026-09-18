@@ -1,7 +1,10 @@
 
-# CS0449 Unix Shell
+# Unix Shell 
 
 A small command-line shell written in C that demonstrates command parsing, process management, signal handling, and file redirection using POSIX APIs.
+
+## Source code
+Source code available upon request
 
 ## Features
 
